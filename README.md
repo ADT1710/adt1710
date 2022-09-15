@@ -1,14 +1,33 @@
 ### Olá, me chamo Adriano Dias Torralvo! 👋
 
+- 🧑🏻‍🎓 Graduado em Ciência da Computação (UNIP 2018-2021);
+- 📚 Pós-graduando em Tecnologias e Inovações Web (SENAC 2022 - atualmente);
+- 💻 Atuando profissionalmente como Desenvolvedor Web Jr. e Analista de Dados;
+- 🗯️ Em meu tempo livre gosto de:
+  - 📖 Ler;
+  - 🤓 Fazer cursos;
+  - 🎮 Jogar.
+- 🐈 Amo gatos;
+- 🔃 Gosto de me manter atualizado.
+
+<div align="center">
+  <h2>Minhas Redes Sociais</h2>
+<div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-dias-torralvo/)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adt1710/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adriano.diastorralvo)
 
-![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=adt1710&show_icons=true&theme=dark)
+<div style="display:flex;flex-direction:column">
+  <a href="https://github.com/adt1710"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adt1710&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adt1710&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adt1710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias mais usadas
+
+<div align="center">
+  <h2>Tecnologias que tenho conhecimento:</h2>
+<div>
 <div style="display:inline_block"><br>
   <img align='center' alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align='center' alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
