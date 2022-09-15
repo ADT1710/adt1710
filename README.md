@@ -8,7 +8,7 @@
   - 🤓 Fazer cursos;
   - 🎮 Jogar.
 - 🐈 Amo gatos;
-- 🔃 Gosto de me manter atualizado.
+- 🔃 Estou sempre atualizado.
 
 <div align="center">
   <h2>Minhas Redes Sociais</h2>
