@@ -1,7 +1,7 @@
 ### Olá, me chamo Adriano Dias Torralvo! 👋
 
 - 🧑🏻‍🎓 Graduado em Ciência da Computação (UNIP 2018-2021);
-- 📚 Pós-graduando em Tecnologias e Inovações Web (SENAC 2022 - atualmente);
+- 📚 Pós-graduado em Tecnologias e Inovações Web (SENAC 2022 - 2023);
 - 💻 Atuando profissionalmente como Desenvolvedor Web Jr. e Analista de Dados;
 - 🗯️ Em meu tempo livre gosto de:
   - 📖 Ler;
