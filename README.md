@@ -2,7 +2,8 @@
 
 - 🧑🏻‍🎓 Graduado em Ciência da Computação (UNIP 2018-2021);
 - 📚 Pós-graduado em Tecnologias e Inovações Web (SENAC 2022 - 2023);
-- 💻 Atuando profissionalmente como Desenvolvedor Web Jr. e Analista de Dados;
+- 💻 Atuando profissionalmente como Analista de Dados e Desenvolvedor Full Stack;
+- 🧑🏻‍💼 CEO da Analytical Sphere;
 - 🗯️ Em meu tempo livre gosto de:
   - 📖 Ler;
   - 🤓 Fazer cursos;
