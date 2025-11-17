@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/2b/9b/6b/2b9b6b5f7a8d2e42bb8965487b7b38b3.gif" width="100%"/>
 </div>
 
-<h1 align="center">👋 Olá, eu sou o Adriano Dias (adt1710)</h1>
+<h1 align="center">👋 Olá, eu sou o Adriano Dias Torralvo(adt1710)</h1>
 <h3 align="center">🚀 Desenvolvedor Fullstack & Analista de Dados</h3>
 
 <p align="center">
